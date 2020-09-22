@@ -1,0 +1,5 @@
+ØIAT Hooking
+
+Dieses kleine Projekt zeigt, wie man über die IAT eine API 
+hookt. Darüber hinaus sieht man, wie VB mit APIs umgeht.
+Jede deklarierte API geht erstmal über GetProcAddress, und wird dann aufgerufen.

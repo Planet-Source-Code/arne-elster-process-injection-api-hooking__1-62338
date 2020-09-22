@@ -1,0 +1,5 @@
+ÏFunktionsumleitung
+
+Über eine Funktionsumleitung kann man z.B. Assembler 
+Code ausführen oder APIs hooken.
+Dieses Beispiel zeigt, wie man einen Hook auf __vbaEnd setzt, um den VB End Befehl abzufangen.
